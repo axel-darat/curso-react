@@ -16,5 +16,5 @@ FirstApp.propTypes = {
 }
 
 FirstApp.defaultProps = {
-    title: "Title doesn't exists ¯\_(ツ)_/¯",
+    title: "Title doesn't exists :'(",
 }
